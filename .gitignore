@@ -1,0 +1,6 @@
+.vscode
+__pycache__
+test.py
+config.ini
+BWIBBU_d_ALL.csv
+STOCK_DAY_ALL.csv
